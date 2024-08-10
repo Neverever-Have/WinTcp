@@ -26,8 +26,8 @@
 
 1. 克隆仓库：
    ```sh
-   git clone https://github.com/yourusername/tcp-server.git
-   cd tcp-server
+   git clone https://github.com/Neverever-Have/WinTcp.git
+   cd WinTcp
    ```
 
 2. 在你喜欢的 C++ IDE（如 Visual Studio）中打开项目。
