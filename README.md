@@ -26,8 +26,8 @@ This project is a C++ implementation of a simple TCP server that handles client 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/tcp-server.git
-   cd tcp-server
+   git clone https://github.com/Neverever-Have/WinTcp.git
+   cd WinTcp
    ```
 
 2. Open the project in your preferred C++ IDE (e.g., Visual Studio).
